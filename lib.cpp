@@ -14,5 +14,6 @@ int funzione(int a){
     } else
     {
         return 0;
-    }}
+    }
+}
 
